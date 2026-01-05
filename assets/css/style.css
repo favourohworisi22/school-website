@@ -1,0 +1,26 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.school-header {
+  background: linear-gradient(45deg, #ff5fa2, #7b2ff7);
+}
+
+.nav-link, .navbar-brand {
+  color: white !important;
+}
+
+.carousel img {
+  height: 400px;
+  object-fit: cover;
+}
+
+.page-banner img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+section {
+  padding: 60px 20px;
+}
